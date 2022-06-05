@@ -1,4 +1,4 @@
-name: ztdl
+name: machineLearningP4
 channels:
 - defaults
 dependencies:
